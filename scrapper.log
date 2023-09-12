@@ -1,0 +1,108 @@
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://172.18.0.12:8000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 133-654-610
+INFO:werkzeug:172.18.0.2 - - [05/Sep/2023 15:33:54] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [05/Sep/2023 15:33:54] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [05/Sep/2023 15:33:54] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:root:name
+INFO:root:rating
+INFO:root:No Comment Heading
+INFO:root:'NoneType' object has no attribute 'div'
+INFO:root:log my final result [{'Product': 'keyboard', 'Name': 'Flipkart Customer', 'Rating': '4', 'CommentHead': 'Nice product', 'Comment': 'Nice, good'}, {'Product': 'keyboard', 'Name': 'Gajendra Padhan', 'Rating': '5', 'CommentHead': 'Excellent', 'Comment': 'Very good product'}, {'Product': 'keyboard', 'Name': 'Shyam Chandra', 'Rating': '5', 'CommentHead': 'Great product', 'Comment': 'Perfect product. Working good. No Doubt. All keys present there. Its not good for steno typing and typing test because 1 key is not present just above "Enter key" in mid portion big one. Otherwise overall perfect for anyone who is not going for a job in clerk or typing exams.'}, {'Product': 'keyboard', 'Name': 'Deepak Kumar  Jena', 'Rating': '5', 'CommentHead': 'Simply awesome', 'Comment': 'It is excellent keyboard, quality is quite good all botton are clicky and very responsive.Generally i  used it  with my mobile redmi note 4 it works very fine ,Also this keyboard is used in my computer academy so you can just guess the quality and trust on brand ,i fully recommend it .it is best in this budget segment ,thank you flipkart.'}, {'Product': 'keyboard', 'Name': 'Dhaneswar Mallik', 'Rating': '5', 'CommentHead': 'Fabulous!', 'Comment': 'Good QualityThis product Quality is good.😉'}, {'Product': 'keyboard', 'Name': 'Flipkart Customer', 'Rating': '5', 'CommentHead': 'Highly recommended', 'Comment': 'amsome'}, {'Product': 'keyboard', 'Name': 'Gourab Bhowal', 'Rating': '5', 'CommentHead': 'Great product', 'Comment': 'Keyboard is just awesome . Loved it . But the Ctrl key was working but was tampered'}, {'Product': 'keyboard', 'Name': 'Anupam Anand', 'Rating': '5', 'CommentHead': 'Fabulous!', 'Comment': 'Nice product at cheap price.Well done flipkart 💕'}, {'Product': 'keyboard', 'Name': 'Malligaraj Malligaraj', 'Rating': '5', 'CommentHead': 'Awesome', 'Comment': 'very nice product in this...... very compatible my Acer laptop... typing smoothly and clearly'}, {'Product': 'keyboard', 'Name': 'NR Gireesan', 'Rating': '4', 'CommentHead': 'Value-for-money', 'Comment': "Smooth keys 👌 good one quality better than expected only one problem is we have check twice capslock and number lock because the light is not visible correctely,it's the only design fault better experience thank you Flipkart"}, {'Product': 'keyboard', 'Name': 'NR Gireesan', 'Rating': 'No Rating', 'CommentHead': 'No Comment Heading', 'Comment': "Smooth keys 👌 good one quality better than expected only one problem is we have check twice capslock and number lock because the light is not visible correctely,it's the only design fault better experience thank you Flipkart"}]
+INFO:werkzeug:172.18.0.2 - - [05/Sep/2023 15:34:14] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [05/Sep/2023 15:34:14] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.2 - - [05/Sep/2023 15:34:14] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://172.18.0.12:8000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 133-654-610
+INFO:werkzeug:172.18.0.2 - - [05/Sep/2023 15:39:14] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [05/Sep/2023 15:39:14] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [05/Sep/2023 15:39:14] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:root:name
+INFO:root:rating
+INFO:root:No Comment Heading
+INFO:root:'NoneType' object has no attribute 'div'
+INFO:root:log my final result [{'Product': 'number', 'Name': 'Neha Rajput', 'Rating': '5', 'CommentHead': 'Great product', 'Comment': 'Such a amazing  tablet on lower price'}, {'Product': 'number', 'Name': 'Jaya Shanmugam', 'Rating': '5', 'CommentHead': 'Fabulous!', 'Comment': 'Good'}, {'Product': 'number', 'Name': 'MILAN KUMAR  MAJEE', 'Rating': '4', 'CommentHead': 'Pretty good', 'Comment': 'Its a very friendly tab for children specially. For drawing, handwriting, sums etc.'}, {'Product': 'number', 'Name': 'Flipkart Customer', 'Rating': '4', 'CommentHead': 'Pretty good', 'Comment': 'Go for it'}, {'Product': 'number', 'Name': 'Samar Pandey', 'Rating': '5', 'CommentHead': 'Awesome', 'Comment': 'Nice product'}, {'Product': 'number', 'Name': 'Flipkart Customer', 'Rating': '5', 'CommentHead': 'Awesome', 'Comment': 'Amazing product smooth writing 👌🏻😊😊'}, {'Product': 'number', 'Name': 'Vishal Gawali', 'Rating': '5', 'CommentHead': 'Just wow!', 'Comment': 'Very nice 👍👍'}, {'Product': 'number', 'Name': 'Zahid Ali', 'Rating': '5', 'CommentHead': 'Just wow!', 'Comment': 'Worth Of money.. i recommend to you buy this product 😉'}, {'Product': 'number', 'Name': 'Meera Yadav', 'Rating': '5', 'CommentHead': 'Must buy!', 'Comment': 'Very nice product 👍'}, {'Product': 'number', 'Name': 'Suraj Choudhary', 'Rating': '5', 'CommentHead': 'Perfect product!', 'Comment': 'Wonderful'}, {'Product': 'number', 'Name': 'Suraj Choudhary', 'Rating': 'No Rating', 'CommentHead': 'No Comment Heading', 'Comment': 'Wonderful'}]
+INFO:werkzeug:172.18.0.2 - - [05/Sep/2023 15:39:33] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [05/Sep/2023 15:39:33] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.2 - - [05/Sep/2023 15:39:33] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://172.18.0.12:8000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 133-654-610
+INFO:werkzeug:172.18.0.2 - - [05/Sep/2023 15:48:11] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [05/Sep/2023 15:48:11] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [05/Sep/2023 15:48:11] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:root:name
+INFO:root:rating
+INFO:root:No Comment Heading
+INFO:root:'NoneType' object has no attribute 'div'
+INFO:root:log my final result [{'Product': 'iron', 'Name': 'Subhajit  Roy', 'Rating': '5', 'CommentHead': 'Highly recommended', 'Comment': 'great performance awesome'}, {'Product': 'iron', 'Name': 'Kalipada  Singh', 'Rating': '5', 'CommentHead': 'Classy product', 'Comment': 'very nice'}, {'Product': 'iron', 'Name': 'Flipkart Customer', 'Rating': '5', 'CommentHead': 'Brilliant', 'Comment': "It's a good product"}, {'Product': 'iron', 'Name': 'Chinnaraj Kannappan', 'Rating': '1', 'CommentHead': 'Horrible', 'Comment': "I was ordered usha brand and i got bajaj company iron box... it's also a defect product.. it was damaged the side of a iron box... flipkart shld avoid these kind of mistake and shld concentrate on the customer satisfaction on the good products..."}, {'Product': 'iron', 'Name': 'DHANANJAY KUMAR Customer', 'Rating': '4', 'CommentHead': 'Nice product', 'Comment': 'Good product'}, {'Product': 'iron', 'Name': 'Raddem venugopal  Reddy', 'Rating': '4', 'CommentHead': 'Really Nice', 'Comment': 'Good product'}, {'Product': 'iron', 'Name': 'Adarsh Yadav', 'Rating': '4', 'CommentHead': 'Wonderful', 'Comment': 'Nice product at this price and nonstick coating is awsome'}, {'Product': 'iron', 'Name': 'ABHAY KRISHNA.P.P', 'Rating': '5', 'CommentHead': 'Fabulous!', 'Comment': 'good iron box'}, {'Product': 'iron', 'Name': 'HAFIZ  MONDAL', 'Rating': '4', 'CommentHead': 'Value-for-money', 'Comment': "The quality of iron is very good. It's works is very well"}, {'Product': 'iron', 'Name': 'Flipkart Customer', 'Rating': '2', 'CommentHead': 'Bad quality', 'Comment': 'burning clothes so many times ... automatically not working properly.,, so sadly.'}, {'Product': 'iron', 'Name': 'Flipkart Customer', 'Rating': 'No Rating', 'CommentHead': 'No Comment Heading', 'Comment': 'burning clothes so many times ... automatically not working properly.,, so sadly.'}]
+INFO:werkzeug:172.18.0.2 - - [05/Sep/2023 15:48:18] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [05/Sep/2023 15:48:18] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [05/Sep/2023 15:48:18] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://172.18.0.12:8000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 133-654-610
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://172.18.0.12:8000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 133-654-610
+INFO:werkzeug:172.18.0.2 - - [05/Sep/2023 15:56:47] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [05/Sep/2023 15:56:47] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [05/Sep/2023 15:56:47] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:root:name
+INFO:root:rating
+INFO:root:No Comment Heading
+INFO:root:'NoneType' object has no attribute 'div'
+INFO:root:log my final result [{'Product': 'iron', 'Name': 'eklavy  yadu', 'Rating': '4', 'CommentHead': 'Good choice', 'Comment': 'Long and comfortable wire.Quick heating quality.Good looking and nice colour.Thanks flipkart'}, {'Product': 'iron', 'Name': 'Ajay  Kumar', 'Rating': '5', 'CommentHead': 'Must buy!', 'Comment': 'Very nice product and and quality is the very best I like it product smoothly Run and heat is the best amazing product'}, {'Product': 'iron', 'Name': 'Sandeep Chauhan', 'Rating': '4', 'CommentHead': 'Delightful', 'Comment': 'Nice products thenx flipkart'}, {'Product': 'iron', 'Name': 'Ganesh T', 'Rating': '5', 'CommentHead': 'Best in the market!', 'Comment': 'Great product for low cost must try it'}, {'Product': 'iron', 'Name': 'Gautam Prasad', 'Rating': '5', 'CommentHead': 'Classy product', 'Comment': 'Good product'}, {'Product': 'iron', 'Name': 'Iliyas khan  Mati', 'Rating': '4', 'CommentHead': 'Value-for-money', 'Comment': 'Thanks Flipkart, Good product and good quality.'}, {'Product': 'iron', 'Name': 'hemanta Bisoi', 'Rating': '4', 'CommentHead': 'Delightful', 'Comment': 'Very nice product,smooth ironing and its regulator is so good. Each products of Flipkart smart buy is awesome ever I used. Thank You Flipkart'}, {'Product': 'iron', 'Name': 'Abhishek kumar', 'Rating': '5', 'CommentHead': 'Super!', 'Comment': 'Iron is looking cool with medium size I love it thank you flipkart😍😍😍. Thank you for fast delivery'}, {'Product': 'iron', 'Name': 'Rizwan Ahmad', 'Rating': '5', 'CommentHead': 'Highly recommended', 'Comment': 'Very nice product Flipkart thank you'}, {'Product': 'iron', 'Name': 'Flipkart Customer', 'Rating': '5', 'CommentHead': 'Must buy!', 'Comment': 'Good'}, {'Product': 'iron', 'Name': 'Flipkart Customer', 'Rating': 'No Rating', 'CommentHead': 'No Comment Heading', 'Comment': 'Good'}]
+INFO:werkzeug:172.18.0.2 - - [05/Sep/2023 15:56:54] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [05/Sep/2023 15:56:55] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.2 - - [05/Sep/2023 15:56:55] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:root:name
+INFO:root:rating
+INFO:root:No Comment Heading
+INFO:root:'NoneType' object has no attribute 'div'
+INFO:root:log my final result [{'Product': 'iron', 'Name': 'eklavy  yadu', 'Rating': '4', 'CommentHead': 'Good choice', 'Comment': 'Long and comfortable wire.Quick heating quality.Good looking and nice colour.Thanks flipkart'}, {'Product': 'iron', 'Name': 'Ajay  Kumar', 'Rating': '5', 'CommentHead': 'Must buy!', 'Comment': 'Very nice product and and quality is the very best I like it product smoothly Run and heat is the best amazing product'}, {'Product': 'iron', 'Name': 'Sandeep Chauhan', 'Rating': '4', 'CommentHead': 'Delightful', 'Comment': 'Nice products thenx flipkart'}, {'Product': 'iron', 'Name': 'Ganesh T', 'Rating': '5', 'CommentHead': 'Best in the market!', 'Comment': 'Great product for low cost must try it'}, {'Product': 'iron', 'Name': 'Gautam Prasad', 'Rating': '5', 'CommentHead': 'Classy product', 'Comment': 'Good product'}, {'Product': 'iron', 'Name': 'Iliyas khan  Mati', 'Rating': '4', 'CommentHead': 'Value-for-money', 'Comment': 'Thanks Flipkart, Good product and good quality.'}, {'Product': 'iron', 'Name': 'hemanta Bisoi', 'Rating': '4', 'CommentHead': 'Delightful', 'Comment': 'Very nice product,smooth ironing and its regulator is so good. Each products of Flipkart smart buy is awesome ever I used. Thank You Flipkart'}, {'Product': 'iron', 'Name': 'Abhishek kumar', 'Rating': '5', 'CommentHead': 'Super!', 'Comment': 'Iron is looking cool with medium size I love it thank you flipkart😍😍😍. Thank you for fast delivery'}, {'Product': 'iron', 'Name': 'Rizwan Ahmad', 'Rating': '5', 'CommentHead': 'Highly recommended', 'Comment': 'Very nice product Flipkart thank you'}, {'Product': 'iron', 'Name': 'Flipkart Customer', 'Rating': '5', 'CommentHead': 'Must buy!', 'Comment': 'Good'}, {'Product': 'iron', 'Name': 'Flipkart Customer', 'Rating': 'No Rating', 'CommentHead': 'No Comment Heading', 'Comment': 'Good'}]
+INFO:werkzeug:172.18.0.2 - - [05/Sep/2023 15:59:32] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [05/Sep/2023 15:59:32] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.2 - - [05/Sep/2023 15:59:32] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:root:name
+INFO:root:rating
+INFO:root:No Comment Heading
+INFO:root:'NoneType' object has no attribute 'div'
+INFO:root:log my final result [{'Product': 'iron', 'Name': 'Subhajit  Roy', 'Rating': '5', 'CommentHead': 'Highly recommended', 'Comment': 'great performance awesome'}, {'Product': 'iron', 'Name': 'Kalipada  Singh', 'Rating': '5', 'CommentHead': 'Classy product', 'Comment': 'very nice'}, {'Product': 'iron', 'Name': 'Flipkart Customer', 'Rating': '5', 'CommentHead': 'Brilliant', 'Comment': "It's a good product"}, {'Product': 'iron', 'Name': 'Chinnaraj Kannappan', 'Rating': '1', 'CommentHead': 'Horrible', 'Comment': "I was ordered usha brand and i got bajaj company iron box... it's also a defect product.. it was damaged the side of a iron box... flipkart shld avoid these kind of mistake and shld concentrate on the customer satisfaction on the good products..."}, {'Product': 'iron', 'Name': 'DHANANJAY KUMAR Customer', 'Rating': '4', 'CommentHead': 'Nice product', 'Comment': 'Good product'}, {'Product': 'iron', 'Name': 'Raddem venugopal  Reddy', 'Rating': '4', 'CommentHead': 'Really Nice', 'Comment': 'Good product'}, {'Product': 'iron', 'Name': 'Adarsh Yadav', 'Rating': '4', 'CommentHead': 'Wonderful', 'Comment': 'Nice product at this price and nonstick coating is awsome'}, {'Product': 'iron', 'Name': 'ABHAY KRISHNA.P.P', 'Rating': '5', 'CommentHead': 'Fabulous!', 'Comment': 'good iron box'}, {'Product': 'iron', 'Name': 'HAFIZ  MONDAL', 'Rating': '4', 'CommentHead': 'Value-for-money', 'Comment': "The quality of iron is very good. It's works is very well"}, {'Product': 'iron', 'Name': 'Flipkart Customer', 'Rating': '2', 'CommentHead': 'Bad quality', 'Comment': 'burning clothes so many times ... automatically not working properly.,, so sadly.'}, {'Product': 'iron', 'Name': 'Flipkart Customer', 'Rating': 'No Rating', 'CommentHead': 'No Comment Heading', 'Comment': 'burning clothes so many times ... automatically not working properly.,, so sadly.'}]
+INFO:werkzeug:172.18.0.2 - - [05/Sep/2023 16:01:58] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [05/Sep/2023 16:01:58] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.2 - - [05/Sep/2023 16:01:58] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:root:name
+INFO:root:rating
+INFO:root:No Comment Heading
+INFO:root:'NoneType' object has no attribute 'div'
+INFO:root:log my final result [{'Product': 'iron', 'Name': 'Subhajit  Roy', 'Rating': '5', 'CommentHead': 'Highly recommended', 'Comment': 'great performance awesome'}, {'Product': 'iron', 'Name': 'Kalipada  Singh', 'Rating': '5', 'CommentHead': 'Classy product', 'Comment': 'very nice'}, {'Product': 'iron', 'Name': 'Flipkart Customer', 'Rating': '5', 'CommentHead': 'Brilliant', 'Comment': "It's a good product"}, {'Product': 'iron', 'Name': 'Chinnaraj Kannappan', 'Rating': '1', 'CommentHead': 'Horrible', 'Comment': "I was ordered usha brand and i got bajaj company iron box... it's also a defect product.. it was damaged the side of a iron box... flipkart shld avoid these kind of mistake and shld concentrate on the customer satisfaction on the good products..."}, {'Product': 'iron', 'Name': 'DHANANJAY KUMAR Customer', 'Rating': '4', 'CommentHead': 'Nice product', 'Comment': 'Good product'}, {'Product': 'iron', 'Name': 'Raddem venugopal  Reddy', 'Rating': '4', 'CommentHead': 'Really Nice', 'Comment': 'Good product'}, {'Product': 'iron', 'Name': 'Adarsh Yadav', 'Rating': '4', 'CommentHead': 'Wonderful', 'Comment': 'Nice product at this price and nonstick coating is awsome'}, {'Product': 'iron', 'Name': 'ABHAY KRISHNA.P.P', 'Rating': '5', 'CommentHead': 'Fabulous!', 'Comment': 'good iron box'}, {'Product': 'iron', 'Name': 'HAFIZ  MONDAL', 'Rating': '4', 'CommentHead': 'Value-for-money', 'Comment': "The quality of iron is very good. It's works is very well"}, {'Product': 'iron', 'Name': 'Flipkart Customer', 'Rating': '2', 'CommentHead': 'Bad quality', 'Comment': 'burning clothes so many times ... automatically not working properly.,, so sadly.'}, {'Product': 'iron', 'Name': 'Flipkart Customer', 'Rating': 'No Rating', 'CommentHead': 'No Comment Heading', 'Comment': 'burning clothes so many times ... automatically not working properly.,, so sadly.'}]
+INFO:werkzeug:172.18.0.2 - - [05/Sep/2023 16:03:29] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [05/Sep/2023 16:03:29] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.2 - - [05/Sep/2023 16:03:29] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
